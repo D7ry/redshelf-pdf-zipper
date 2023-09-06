@@ -8,14 +8,10 @@ BOOK_IDS = [2409870, 2573894]
 PAGE_RANGE = [1, 10]
 # cookies for session-based .jpeg access authentication
 COOKIES = {
-    'AMP_d698e26b82':'JTdCJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJkZXZpY2VJZCUyMiUzQSUyMmRhMTU2NGYxLWIzNWEtNGI4OC04MjBlLWMzYTQ1Mjc5MDQ4MSUyMiUyQyUyMmxhc3RFdmVudFRpbWUlMjIlM0ExNjk0MDM0MjY0ODAyJTJDJTIyc2Vzc2lvbklkJTIyJTNBMTY5NDAzMjg0MjczMSUyQyUyMnVzZXJJZCUyMiUzQSUyMmRmNDE2MzkyLTVmNWYtNGM3NS04MDAwLTcwYzA1ZTVkZTRjYiUyMiU3RA==',
-    'AMP_MKTG_d698e26b82':'JTdCJTIycmVmZXJyZXIlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnBsYXRmb3JtLnZpcmRvY3MuY29tJTJGcmVhZCUyRjI0MDk4NzAlMkYlMjIlMkMlMjJyZWZlcnJpbmdfZG9tYWluJTIyJTNBJTIycGxhdGZvcm0udmlyZG9jcy5jb20lMjIlN0Q=',
-    'csrftoken':'adb967c',
-    'csrftoken':'ciWA6fvt1FPjON54Sc52baIVXsIoQ7UA',
-    'session_id':'nnndpxnnu5t8j1ugvln7lpzo7e7o6vdo',
-    'sessionid':'sessionid',
-    'sessionid':'ee9474e',
-    'csrftoken':'2b6f4fe'
+    'AMP_MKTG_d698e26b82':'waefawefawef',
+    'csrftoken':'32tgeaedafsdf',
+    'csrftoken':'aewfawef',
+    'sessionid':'11111',
 }
 
 import os
