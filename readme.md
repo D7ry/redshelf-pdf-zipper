@@ -3,9 +3,11 @@
 ## Requirements
 
 Python
-Pillow(for PDF zipping)
+
+Pillow(for PDF zipping)  
 `pip install Pillow`
-requests(for downloading)
+
+requests(for downloading)  
 `pip install requests`
 
 ## Usage
